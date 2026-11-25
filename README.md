@@ -1,13 +1,5 @@
 # My Study Planner — Flutter & Dart Final Project
 
-Group number : 7
-
-Group reg.Numbers:
-1. 26495/2024
-2. 27087/2024
-3. 27130/2024
-4. 26455/2024
-
 ## Project Description
 My Study Planner is a Flutter mobile application that helps students organize their study goals, track study hours, and monitor their progress.
 
