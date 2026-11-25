@@ -63,7 +63,6 @@ My Study Planner is a Flutter mobile application that helps students organize th
 - Flutter
 - Dart
 - Visual Studio Code
-- SQLite
 - Android Emulator
 
 ## Conclusion
