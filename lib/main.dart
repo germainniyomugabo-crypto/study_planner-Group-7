@@ -127,7 +127,7 @@ class _StudyPlannerScreenState extends State<StudyPlannerScreen> {
 
             // STATIC: Welcome heading
             const Text(
-              'Hello, Welcome! 👋',
+              'Hello, Student! 👋',
               style: TextStyle(
                 fontSize: 25,
                 fontWeight: FontWeight.bold,
